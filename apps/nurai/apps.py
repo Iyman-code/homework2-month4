@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class NuraiConfig(AppConfig):
-    name = 'nurai'
+    name = 'apps.nurai'

@@ -37,12 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
-
-'apps.nurai'
-'apps.flag'
-
-
+    
+    'apps.nurai',
+    'apps.flag',
 ]
 
 
